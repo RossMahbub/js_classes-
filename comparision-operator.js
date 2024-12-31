@@ -23,9 +23,9 @@ const a =21
 const b = 20;
 console.log(a < b);
 
-// const a = 19;
-// const b = 20;
-// console.log(a <= b);
+const c = 19;
+const d = 20;
+console.log(c <= d);
 
 
 

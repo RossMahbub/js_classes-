@@ -23,13 +23,13 @@
 // console.log(total);
 
 // // modulas
-// let a =11;
+// let a = 11;
 // let b = 2;
 // let total = a % b;
-// console.log(total);
+// // console.log(total);
 
-// wxponentiation
-let a =2;
-let b = 3;
-let total = a ** b;
-console.log(total);
+// // exponentiationc
+// let c = 2;
+// let d = 3;
+// let total = c ** d;
+// console.log(total);
