@@ -43,3 +43,6 @@ console.log(ross);
 console.log(ross.fullName);
 console.log(ross["isStudent"]);
 
+let friends = ["jodu", "modu", "kodu", "bodu", true]
+console.log(friends);
+console.log(friends[3]);
